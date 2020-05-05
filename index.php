@@ -11,11 +11,28 @@
     
         <h1 class="alert alert-dark m-5 text-white text-center">Site test</h1>
 
-        <ul>
-            <li>3</li>
-            <li>2</li>
-            <li>1</li>
-        </ul>
+   <ul>
+        <li>3</li>
+        <li>2</li>
+        <li>1</li>
+   </ul>
+
+        <!-- carrousel inutile pour l'instant -->
+        <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+        <img src="..." class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="..." class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="..." class="d-block w-100" alt="...">
+    </div>
+  </div>
+</div>
+
+        
 
     </div>
 
